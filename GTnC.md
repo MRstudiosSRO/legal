@@ -11,7 +11,7 @@
 5. Application of any general terms and conditions (or similar terms) of the Client is excluded.
 6. These General Terms and Conditions shall not apply to contractual relations concluded with consumers (within the meaning of § 419 of Act No. 89/2012 Coll., the Civil Code). 
 ## Article 2
-# Price and Payment Conditions
+### Price and Payment Conditions
 1. The Client undertakes to pay to MRstudios the contractual price for the Subject Matter of Performance. The contractual price, or alternatively, the method of calculating the contractual price, is laid down in the Offer. 
 2. The Offer may stipulate that MRstudios is entitled to advance payment on the basis of pro forma invoice issued by MRstudios after the conclusion of the Contractual Relation.
 3. The contractual price does not include VAT. The VAT shall be added to the contractual price in line with applicable law. Unless the Offer provides otherwise, the contractual price covers all costs associated with the Subject Matter of Performance to the Client. 
