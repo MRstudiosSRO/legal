@@ -1,3 +1,6 @@
+<img src="/MRsymbol.png" width="150">
+<br></br>
+
 # The General Terms and Conditions
 ## Article 1
 ### Introductory Provisions
@@ -35,16 +38,16 @@
 2. Unless the Offer expressly provides otherwise, the price for granting the License is included in the contractual price. The License is granted to the Client upon the full payment of the contractual price.
 3. Unless the Offer expressly provides otherwise, the License is granted as non-exclusive (within the meaning of § 2361 of Act No. 89/2012 Coll., the Civil Code). All rights and authorisations not expressly granted by these General Terms and Conditions or by the Offer to the Client are reserved by MRstudios and its contractual partners.
 4. Unless the Offer expressly provides otherwise, the License is granted as non transferable. The Client may not transfer the License (in whole or in part) to a third party without the prior written consent of MRstudios. In view of the above, the Client is not allowed (especially but not exclusively) to:
-  - grant a sublicense to a third party or to assign rights arising out of the License to a third party;
-  - sell the Software Product, to give it, lend it, share it or otherwise provide access of third party to the Software Product;
-  - copy or reproduce the Software Product in order to distribute it; 
-  - cause or permit the reverse engineering, alteration, disassembly, decompilation or any other modifications of the Software Product;
-  - use the Software Product in violation of applicable law;
-  - without the prior written consent of MRstudios. The Offer stipulates the conditions and ways of use of the Software Product.
+    1. grant a sublicense to a third party or to assign rights arising out of the License to a third party;
+    2. sell the Software Product, to give it, lend it, share it or otherwise provide access of third party to the Software Product;
+    3. copy or reproduce the Software Product in order to distribute it; 
+    4. cause or permit the reverse engineering, alteration, disassembly, decompilation or any other modifications of the Software Product;
+    5. use the Software Product in violation of applicable law;
+    6. without the prior written consent of MRstudios. The Offer stipulates the conditions and ways of use of the Software Product.
 5. Unless the Offer expressly provides otherwise, the License is granted for an indefinite period of time. The License may be terminated by MRstudios upon a written withdrawal in the event of:
-  - the Client’s breach of its obligations arising out of the License, or 
-  - the Client’s breach of MRstudios’ copyrights to the Software Product.     
-  - The withdrawal is effective on the day of delivery of written withdrawal notice to the Client.
+    1. the Client’s breach of its obligations arising out of the License, or 
+    2. the Client’s breach of MRstudios’ copyrights to the Software Product.     
+    3. The withdrawal is effective on the day of delivery of written withdrawal notice to the Client.
 6. Unless the Offer expressly provides otherwise, the License is territorially unlimited.
 7. These General Terms and Conditions shall apply accordingly to each Party’s rights and obligations arising out of the License.
 8. MRstudios undertakes to grant to the Client access to source codes related to Software Product being subject of any Subject Matter of Performance, if: (i) the liquidation process of MRstudios was commenced, or (ii) the insolvency process of MRstudios was commenced. If any of the situations referred to above occurs, MRstudios shall hand over appropriate source codes to the Client within 10 days after receiving written notice from the Client. To exclude any doubts, the Parties hereby agree that remuneration for granting access to appropriate source codes is not covered by the contractual price for the Subject Matter of Performance set out in the Offer and the Client is obliged to pay a separate remuneration in the amount corresponding to open market value but in no case lower than twice the value of the Software Product-related part of the Offer under which appropriate Software Product was supplied to the Client. The Client undertakes to pay the remuneration within 10 days after receiving appropriate source codes from MRstudios.
@@ -58,13 +61,13 @@
 1. Each Party is entitled to withdraw from the Contractual Relation only in cases of essential breach or in cases expressly stated in the Offer or these General Terms and Conditions or in Act No. 89/2012 Coll., the Civil Code.
 2. The withdrawal is effective on the day of delivery of written withdrawal notice to the other Party.
 3. The following cases are considered as essential breach:
-  - The delay attributable to MRstudios with carrying out of the Subject Matter of Performance that lasts longer than 60 days.
-  - Despite the notice of the other Party to refrain from breaching, the Party repeatedly breaches its obligations arising out of the Contractual Relation.
-  - The Party breaches its obligation laid down in Confidentiality Clause.
-  - The delay attributable to the Client with advance payment that lasts longer than 30 days.
+    1. The delay attributable to MRstudios with carrying out of the Subject Matter of Performance that lasts longer than 60 days.
+    2. Despite the notice of the other Party to refrain from breaching, the Party repeatedly breaches its obligations arising out of the Contractual Relation.
+    3. The Party breaches its obligation laid down in Confidentiality Clause.
+    4. The delay attributable to the Client with advance payment that lasts longer than 30 days.
 4. Each Party is also entitled to withdraw from the Contractual Relation if:
-  - The bankruptcy procedure has been initiated in relation to the other Party.
-  - The liquidation procedure has been initiated in relation to the other Party.
+    1. The bankruptcy procedure has been initiated in relation to the other Party.
+    2. The liquidation procedure has been initiated in relation to the other Party.
 ## Article 8
 ### Assignment and Severability Clause
 1. The Client may not assign any of its rights and/or obligations arising out of the Contractual Relation to a third party without the prior written consent of MRstudios. 
