@@ -82,7 +82,7 @@
 3. All disputes arising out of or in connection with any Contractual Relation concluded between MRstudios and the Client under these General Terms and Conditions, including any question regarding its existence, validity and termination, shall be resolved by the general court determined according to the registered office of MRstudios.
 4. **These General Terms and Conditions become valid and effective on 22 of November 2018.**
 
-## © 2017-2024 MRstudios
+## © 2017-2025 MRstudios
 The content of this conceptualisation and the related portfolio is, unless defined otherwise within contracts between the MRstudios and the Client, the intellectual property of MRstudios as defined within respective laws of the Czech Republic and European Union. 
 
 **This portfolio and its related documents are to be treated confidentially and shall not be transferred to any third party without prior permission of MRstudios.**
